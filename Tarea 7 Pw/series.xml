@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<series>
+
+<serie category="Comedia de situación">
+<title>Rick y Morty</title>
+<author>Justin Roiland, Dan Harmon</author>
+<year>2013</year>
+<duration>6 temporadas</duration>
+</serie>
+
+
+<serie category="Animación">
+<title>Peppa</title>
+<author>Neville Astley, Mark Baker</author>
+<year>2004</year>
+<duration>7 temporadas</duration>
+</serie>
+
+
+<serie category="Animación">
+<title>Hora de aventura</title>
+<author>Pendleton Ward</author>
+<year>2010</year>
+<duration>10 temporadas</duration>
+</serie>
+
+
+<serie category="Drama">
+<title>Los Soprano</title>
+<author>Michael Imperioli, David Chase, Terence Winter, MÁS</author>
+<year>1999</year>
+<duration>6 temporadas</duration>
+</serie>
+
+
+<serie category="Drama">
+<title>Dr. House</title>
+<author> David Shore, Lawrence Kaplow, Russel Friend, MÁS</author>
+<year>2004</year>
+<duration>8 temporadas</duration>
+</serie>
+
+
+<serie category="Comedia de situación">
+<title>Everybody Hates Chris</title>
+<author>Chris Rock, Ali LeRoi, Gregory Thompson, MÁS</author>
+<year>2005</year>
+<duration>4 temporadas</duration>
+</serie>
+
+
+</series>

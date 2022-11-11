@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pces>
+
+<PC category="PC ESCIRITORIO">
+<title>PC Gamer Gladius 50i</title>
+<p>$21,739</p>
+<proce>Intel i3 12th Gen</proce>
+<RAM>8 de RAM</RAM>
+<creadores>
+<m>Intel</m>
+<n>SpartanGeek</n>
+</creadores>
+</PC>
+
+
+<PC category="LAPTOP">
+<title>Asus TUF </title>
+<p>$21,999.00</p>
+<proce>Ryzen 7</proce>
+<RAM>8 GB de RAM</RAM>
+<creadores>
+<m>AMD</m>
+<n>Asus</n>
+</creadores>
+</PC>
+
+
+<PC category="LAPTOP">
+<title>Asus TUF</title>
+<p>$19,999.00</p>
+<proce>	Ryzen 5</proce>
+<RAM>8 de RAM</RAM>
+<creadores>
+<m>AMD</m>
+<n>Asus</n>
+</creadores>
+</PC>
+
+
+<PC category="PC ESCRITORIO">
+<title>PC Gamer Gladius 50i X</title>
+<p>$21,625</p>
+<proce>Intel i3 10th Gen</proce>
+<RAM>8 de RAM</RAM>
+<creadores>
+<m>Intel</m>
+<n>SpartanGeek</n>
+</creadores>
+</PC>
+
+
+<PC category="PC ESCRITORIO">
+<title>PC Gamer Gladius 60i X</title>
+<p>$30,678</p>
+<proce>Intel i3 10th Gen</proce>
+<RAM>16 DE RAM</RAM>
+<creadores>
+<m>Intel</m>
+<n>SpartanGeek</n>
+</creadores>
+</PC>
+
+
+<PC category="LAPTOP">
+<title>HUAWEI MateBook D</title>
+<p>$10,599.00</p>
+<proce>Intel Core i3</proce>
+<RAM>Memoria RAM de 16GB</RAM>
+<creadores>
+<m>HUAWEI</m>
+<n>Intel</n>
+</creadores>
+</PC>
+
+
+</pces>

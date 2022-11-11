@@ -1,0 +1,22 @@
+body{
+    background: rgb(17, 0, 17); 
+    color: rgb(255, 255, 255);
+}
+.contenedor{
+    text-align: left;
+}
+
+.b{
+    background-color: rgb(54, 38, 145);
+    border-radius: 25px;
+    
+}
+table,th,td {
+    border : 10px solid rgb(255, 255, 255);
+    margin: 2 auto;
+    border-collapse: collapse;
+    
+}
+th,td {
+    padding: 5px;
+}
